@@ -53,5 +53,4 @@ An IoT-based Smart Water Tank Management System built with ESP32, designed to mo
 
 ### Real-time
 <img width="1417" alt="dashboard" src="https://github.com/user-attachments/assets/36434c5a-a939-4ad8-b55b-46ec7f687feb" />
-![phone dashboard 2](https://github.com/user-attachments/assets/e6efe932-0e1d-4077-91a2-00596d84e431)
-
+![phone dashboard 2](https://github.com/user-attachments/assets/ef81f850-100a-4224-85ab-cae31c9289c4)
