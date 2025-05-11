@@ -40,8 +40,12 @@ An IoT-based Smart Water Tank Management System built with ESP32, designed to mo
 5. Dashboard (Power BI) visualizes data trends
 6. Thresholds trigger LED changes and valve control
 
+## Structural Diagram 
 
 
+## Circuit Diagram 
 
+
+## Dashboard
 
 
