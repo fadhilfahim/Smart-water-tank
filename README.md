@@ -42,10 +42,10 @@ An IoT-based Smart Water Tank Management System built with ESP32, designed to mo
 
 ## Structural Diagram 
 
-
 ## Circuit Diagram 
 
-
 ## Dashboard
+### Historic Data trend
 
+### Real-time
 
